@@ -1,0 +1,7 @@
+# Platform-specific files
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+# Linux
+.directory
